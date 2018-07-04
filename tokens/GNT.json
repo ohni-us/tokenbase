@@ -1,0 +1,13 @@
+{
+  name: "Golem",
+  ticker: "GNT",
+  decimals: "18",
+  address: "0xa74476443119A942dE498590Fe1f2454d7D4aC0d",
+  description: "Golem is going to create the first decentralized global market for computing power",
+  links: {
+    twitter: "https://twitter.com/golemproject",
+    website: "https://golem.network/",
+    whitepaper: "https://golem.network/doc/Golemwhitepaper.pdf",
+    chat: "https://www.reddit.com/r/GolemProject/"
+  }
+}
