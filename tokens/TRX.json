@@ -1,0 +1,13 @@
+{
+  "name": "Tron",
+  "ticker": "TRX",
+  "decimals": "6",
+  "address": "0xf230b790e05390fc8295f4d3f60332c93bed42e2 ",
+  "description": "TRON is a blockchain-based decentralized protocol that aims to construct a worldwide free content entertainment system with the blockchain and distributed storage technology.",
+  "links": {
+    "twitter": "https://twitter.com/tronfoundation?lang=en",
+    "website": "https://tron.network/",
+    "whitepaper": "https://o836fhe91.qnssl.com/tron/whitebook/TronWhitepaper_en.pdf",
+    "chat": "https://t.me/tronnetworkEN03"
+  }
+}
