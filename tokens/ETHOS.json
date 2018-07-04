@@ -1,13 +1,13 @@
 {
-  name: "Ethos",
-  ticker: "ETHOS",
-  decimals: "8",
-  address: "0x5af2be193a6abca9c8817001f45744777db30756",
-  description: "People-powered cryptocurrency services for the blockchain",
-  links: {
-    twitter: "https://twitter.com/ethos_io",
-    website: "https://www.ethos.io/",
-    whitepaper: "http://www.ethos.io/Ethos_Whitepaper.pdf",
-    chat: "https://t.me/ethos_io"
+  "name": "Ethos",
+  "ticker": "ETHOS",
+  "decimals": "8",
+  "address": "0x5af2be193a6abca9c8817001f45744777db30756",
+  "description": "People-powered cryptocurrency services for the blockchain",
+  "links": {
+    "twitter": "https://twitter.com/ethos_io",
+    "website": "https://www.ethos.io/",
+    "whitepaper": "http://www.ethos.io/Ethos_Whitepaper.pdf",
+    "chat": "https://t.me/ethos_io"
   }
 }
