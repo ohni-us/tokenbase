@@ -1,0 +1,13 @@
+{
+  name: "0x",
+  ticker: "ZRX",
+  decimals: "18",
+  address: "0xe41d2489571d322189246dafa5ebde1f4699f498",
+  description: "0x is an open, permissionless protocol allowing for ERC20 tokens to be traded on the Ethereum blockchain.",
+  links: {
+    twitter: "https://twitter.com/0xproject",
+    website: "https://0xproject.com/",
+    whitepaper: "https://0xproject.com/pdfs/0x_white_paper.pdf",
+    chat: "https://0xproject.slack.com/"
+  }
+}
