@@ -1,0 +1,13 @@
+{
+  "name": "OmiseGo",
+  "ticker": "OMG",
+  "decimals": "18",
+  "address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
+  "description": "OmiseGO (OMG) is a public Ethereum-based financial technology for use in mainstream digital wallets",
+  "links": {
+    "twitter": "https://twitter.com/omise_go",
+    "website": "https://omisego.network/",
+    "whitepaper": "https://cdn.omise.co/omg/whitepaper.pdf",
+    "chat": "https://www.reddit.com/r/omise_go/"
+  }
+}

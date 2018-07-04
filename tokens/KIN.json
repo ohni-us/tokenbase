@@ -1,0 +1,13 @@
+{
+  "name": "Kin",
+  "ticker": "KIN",
+  "decimals": "18",
+  "address": "0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5",
+  "description": "The vision for Kin is rooted in the belief that a broad group of participants can come together to create an open ecosystem of tools for digital communication and commerce that prioritizes consumer experience, bringing a fair and user-oriented model for digital services to the market.",
+  "links": {
+    "twitter": "https://twitter.com/@kin_foundation",
+    "website": "https://kinecosystem.org/",
+    "whitepaper": "https://kinecosystem.org/static/files/Kin_Whitepaper_V1_English.pdf",
+    "chat": "https://t.me/kinfoundation"
+  }
+}

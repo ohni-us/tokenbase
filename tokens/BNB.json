@@ -1,0 +1,13 @@
+{
+  "name": "Binance Coin",
+  "ticker": "BNB",
+  "decimals": "18",
+  "address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+  "description": "Binance aims to build a world-class crypto exchange, powering the future of crypto finance.",
+  "links": {
+    "twitter": "https://twitter.com/binance_2017",
+    "website": "https://www.binance.com/",
+    "whitepaper": "https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf",
+    "chat": "https://www.reddit.com/r/binance/"
+  }
+}

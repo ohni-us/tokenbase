@@ -1,0 +1,13 @@
+{
+  "name": "Gifto",
+  "ticker": "GTO",
+  "decimals": "5",
+  "address": "0xc5bbae50781be1669306b9e001eff57a2957b09d",
+  "description": "Decentralized Universal Gifting Protocol.",
+  "links": {
+    "twitter": "https://twitter.com/GIFTO_io",
+    "website": "https://gifto.io/",
+    "whitepaper": "https://gifto.io/GIFTO_Whitepaper_V2.0_20171204.pdf",
+    "chat": "https://t.me/GIFTOOfficial"
+  }
+}
